@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- Usa la imagen deseada como contenido del ícono -->
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ic_background_image" />
+    </item>
+</layer-list>
